@@ -10,12 +10,12 @@ In the generated ticket customer can see there name, age, At what date/time tick
 In the other hand Safari Management can monitor the dashboard with all booked ticket details day to day. Also they can store all old records in the database. 
 
 Below are some use cases for the application :
-•	user registration
-•	user login
-•	checking available vehicles
-•	checking price list
-•	booking
-•	writing json response into file (for getAllUsers and getAllVehicles API)
+   1. user registration
+   2. user login
+   3. checking available vehicles
+   4. checking price list
+   5. booking
+   6. writing json response into file (for getAllUsers and getAllVehicles API)
 
 So, based on these criteria the safari ticketing system has been developed.
 
